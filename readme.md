@@ -1,4 +1,4 @@
-# 🧠 Minimal IRC Client (Python, Raw Sockets)
+# 🧠 Minimal IRC Client
 
 A **terminal-based IRC (Internet Relay Chat) client** written in **pure Python** using **raw TCP sockets** only.  
 This project demonstrates how real-world text-based network protocols work without relying on external IRC libraries.
